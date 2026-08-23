@@ -14,7 +14,6 @@
 
 - [ ] Build knowledge base
 - [ ] Create automation scripts
-- [ ] Configure Claude Code
 - [ ] Create prompt library
 
 ---

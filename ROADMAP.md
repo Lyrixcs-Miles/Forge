@@ -52,7 +52,6 @@
 
 # Phase 6 — AI Integration
 
-- [ ] Claude Code
 - [ ] ChatGPT workflows
 - [ ] Prompt library
 - [ ] Agent configurations

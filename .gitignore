@@ -30,11 +30,10 @@ Thumbs.db
 dist/
 build/
 
-# Claude cache (keep config, ignore cache)
-.claude/cache/
 
 # Local experiments
 scratch/
 
 # Local exports
 exports/
+CLAUDE.md
